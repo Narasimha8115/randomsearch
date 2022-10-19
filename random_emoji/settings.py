@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-875y2b1jd9+0g+*-psg39(4=m*akuubz*1@g6yno^^ky6+!qr5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','rasearchemoji.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','rasearchemoji.herokuapp.com','searchmoji.herokuapp.com']
 
 
 # Application definition
